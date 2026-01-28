@@ -18,6 +18,24 @@ StaticBase is a bash script that generates a clean, modern website with index, a
 
 ## Quick Start
 
+### Installation (Mac/Linux)
+
+```bash
+git clone <repo-url> staticbase
+cd staticbase
+chmod +x create-staticbase.sh
+```
+
+### Installation (Windows - Git Bash)
+
+```bash
+git clone <repo-url> staticbase
+cd staticbase
+chmod +x create-staticbase.sh
+```
+
+Install Git Bash: [Git for Windows](https://gitforwindows.org/)
+
 ### Create a new website
 
 ```bash
